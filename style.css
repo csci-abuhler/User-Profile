@@ -1,0 +1,29 @@
+/* Settings for the outer section */
+#outer-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  flex-direction: column;
+}
+
+/* Settings for the profile image */
+#user-profile-photo {
+  border-radius: 100%;
+  margin: 10px;
+}
+
+/* Settings for the profile name */
+#profile-name {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+/* Settings for the profile description*/
+#profile-description {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 14px;
+}
