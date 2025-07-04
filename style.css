@@ -27,3 +27,10 @@
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 14px;
 }
+
+/* Settings for social media button logos */
+#facebook-logo,
+#instagram-logo,
+#email-logo {
+  margin: 5px;
+}
