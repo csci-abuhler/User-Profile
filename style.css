@@ -26,6 +26,9 @@
   flex-wrap: wrap;
   font-family: "Lucida Console", "Courier New", monospace;
   font-size: 14px;
+  line-height: 20px;
+  margin: 20px;
+  text-align: center;
 }
 
 /* Settings for social media button logos */
